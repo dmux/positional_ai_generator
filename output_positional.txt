@@ -1,0 +1,10 @@
+00001Ana Silva           025
+00002João Oliveira       030
+00003Maria Santos        039
+00004Pedro Almeida       028
+00005Luisa Soares        031
+00006Carlos Teixeira     027
+00007Mariana Moura       033
+00008Ricardo Souza       036
+00009Beatriz Costa       032
+00010Gabriel Rocha       034

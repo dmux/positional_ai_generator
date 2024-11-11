@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "positional-ai-generator"
+version = "0.1.0"
+description = ""
+authors = ["Rafael Sales <rafael.sales@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "3.13"
+jupyterlab = "^4.3.0"
+openai = "^1.54.3"
+langchain = "^0.3.7"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
